@@ -4,10 +4,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=ANiket%20%7C%20AI%20Engineer&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h1 align="center">Hi 👋, I'm ANiket</h1>
+<h1 align="center">Hi 👋, I'm Aniket</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00FFAA&center=true&vCenter=true&width=700&lines=AI+Engineer;GenAI+Builder;Hackathon+Finalist;Building+Real+World+AI+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00FFAA&center=true&vCenter=true&width=700&lines=AI+Engineer;GenAI+Builder;AWS+Hackathon+Finalist;Building+Real+World+AI+Systems" />
 </p>
 
 <p align="center">
