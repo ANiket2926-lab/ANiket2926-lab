@@ -1,10 +1,8 @@
-<!-- ================= TOP BANNER ================= -->
+<!-- ================= HEADER (ONLY ANIMATION) ================= -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=ANiket%20%7C%20AI%20Engineer&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 </p>
-
-<!-- ================= INTRO ================= -->
 
 <h1 align="center">Hi 👋, I'm ANiket</h1>
 
@@ -18,11 +16,7 @@
 
 ---
 
-<!-- ================= ABOUT ================= -->
-
 ## 👨‍💻 About Me
-
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 I am an AI-focused software engineer building **practical, real-world systems** using modern AI technologies.
 
@@ -32,14 +26,7 @@ I am an AI-focused software engineer building **practical, real-world systems** 
 
 ---
 
-<!-- ================= ACHIEVEMENTS ================= -->
-
 ## 🏆 Achievements
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AI%20For%20Bharat-Finalist-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/India%20Space%20Lab-Intern-blue?style=for-the-badge" />
-</p>
 
 - 🥇 Finalist — AI for Bharat Hackathon  
 - 🚀 Intern — India Space Lab (ISL)  
@@ -47,13 +34,9 @@ I am an AI-focused software engineer building **practical, real-world systems** 
 
 ---
 
-<!-- ================= PROJECTS ================= -->
-
 ## 🧠 Featured Projects
 
 ### 🔹 Decision Ledger
-![banner](https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1200&auto=format&fit=crop)
-
 AI-assisted system for structured decision tracking and explainability.
 
 - Designed decision intelligence workflows  
@@ -63,8 +46,6 @@ AI-assisted system for structured decision tracking and explainability.
 ---
 
 ### 🔹 DefectLens AI
-![banner](https://images.unsplash.com/photo-1581092335397-9583eb92d232?q=80&w=1200&auto=format&fit=crop)
-
 AI-assisted computer vision system for defect detection.
 
 - Image-based anomaly detection  
@@ -74,8 +55,6 @@ AI-assisted computer vision system for defect detection.
 ---
 
 ### 🔹 Regula
-![banner](https://images.unsplash.com/photo-1555949963-aa79dcee981c?q=80&w=1200&auto=format&fit=crop)
-
 AI-assisted automation system for rule-based workflows.
 
 - Structured rule execution  
@@ -84,17 +63,13 @@ AI-assisted automation system for rule-based workflows.
 
 ---
 
-<!-- ================= TECH STACK ================= -->
-
 ## ⚙️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,nextjs,aws,docker,git" />
-</p>
+`Python` `LLMs` `Transformers` `NLP` `Computer Vision`  
+`Next.js` `TypeScript` `APIs`  
+`AWS` `GitHub` `Docker (basic)`
 
 ---
-
-<!-- ================= STATS ================= -->
 
 ## 📊 GitHub Analytics
 
@@ -104,8 +79,6 @@ AI-assisted automation system for rule-based workflows.
 </p>
 
 ---
-
-<!-- ================= CONNECT ================= -->
 
 ## 📫 Connect With Me
 
@@ -120,7 +93,9 @@ AI-assisted automation system for rule-based workflows.
 
 ---
 
-<!-- ================= FOOTER ================= -->
+<p align="center">
+  ⭐️ <b>Building practical, explainable, and impactful AI systems</b>
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
