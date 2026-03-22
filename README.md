@@ -1,5 +1,16 @@
+<!-- ================= TOP BANNER ================= -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=ANiket%20%7C%20AI%20Engineer&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<!-- ================= INTRO ================= -->
+
 <h1 align="center">Hi 👋, I'm ANiket</h1>
-<h3 align="center">AI Engineer | Building Real-World AI Systems</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00FFAA&center=true&vCenter=true&width=700&lines=AI+Engineer;GenAI+Builder;Hackathon+Finalist;Building+Real+World+AI+Systems" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ANiket2926-lab&label=Profile+Views&color=0e75b6&style=flat" />
@@ -7,71 +18,83 @@
 
 ---
 
+<!-- ================= ABOUT ================= -->
+
 ## 👨‍💻 About Me
 
-I am an AI-focused software engineer working on building **practical, production-oriented systems** using modern AI technologies.
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-My approach emphasizes:
-- Real-world usability over theoretical models  
-- Strong system design and architecture  
-- Responsible use of AI-assisted development tools  
+I am an AI-focused software engineer building **practical, real-world systems** using modern AI technologies.
 
-I actively build and experiment with systems that solve **real problems**, especially in decision intelligence, automation, and computer vision.
+- Focus on **usability over theory**  
+- Strong **system design & architecture**  
+- Building with **AI-assisted workflows (LLMs)**  
 
 ---
+
+<!-- ================= ACHIEVEMENTS ================= -->
 
 ## 🏆 Achievements
 
-- 🥇 Finalist — **AI for Bharat Hackathon**  
-- 🚀 Intern — **India Space Lab (ISL)**  
-- 💡 Developed multiple **AI-assisted real-world systems**
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20For%20Bharat-Finalist-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/India%20Space%20Lab-Intern-blue?style=for-the-badge" />
+</p>
+
+- 🥇 Finalist — AI for Bharat Hackathon  
+- 🚀 Intern — India Space Lab (ISL)  
+- 💡 Built multiple AI-assisted systems  
 
 ---
+
+<!-- ================= PROJECTS ================= -->
 
 ## 🧠 Featured Projects
 
 ### 🔹 Decision Ledger
+![banner](https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1200&auto=format&fit=crop)
+
 AI-assisted system for structured decision tracking and explainability.
 
-**Key Highlights:**
-- Designed system for capturing and analyzing decisions  
-- Implemented reasoning workflows for transparency  
-- Focused on accountability and traceability  
+- Designed decision intelligence workflows  
+- Focused on transparency & traceability  
+- Built for real-world usage  
 
 ---
 
 ### 🔹 DefectLens AI
+![banner](https://images.unsplash.com/photo-1581092335397-9583eb92d232?q=80&w=1200&auto=format&fit=crop)
+
 AI-assisted computer vision system for defect detection.
 
-**Key Highlights:**
-- Built image-based defect detection pipeline  
-- Applied computer vision techniques for anomaly detection  
-- Designed for real-world inspection use cases  
+- Image-based anomaly detection  
+- Industrial inspection use-case  
+- Scalable pipeline design  
 
 ---
 
 ### 🔹 Regula
+![banner](https://images.unsplash.com/photo-1555949963-aa79dcee981c?q=80&w=1200&auto=format&fit=crop)
+
 AI-assisted automation system for rule-based workflows.
 
-**Key Highlights:**
-- Developed structured rule execution system  
-- Focused on compliance and automation  
-- Designed scalable and modular architecture  
+- Structured rule execution  
+- Compliance automation  
+- Modular architecture  
 
 ---
+
+<!-- ================= TECH STACK ================= -->
 
 ## ⚙️ Tech Stack
 
-### 🧠 AI / ML
-`Python` `LLMs` `Transformers` `NLP` `Computer Vision`
-
-### 💻 Development
-`Next.js` `TypeScript` `APIs` `Full Stack Development`
-
-### ☁️ Tools & Platforms
-`AWS` `GitHub` `Docker (basic)` `VS Code`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,ts,nextjs,aws,docker,git" />
+</p>
 
 ---
+
+<!-- ================= STATS ================= -->
 
 ## 📊 GitHub Analytics
 
@@ -81,6 +104,8 @@ AI-assisted automation system for rule-based workflows.
 </p>
 
 ---
+
+<!-- ================= CONNECT ================= -->
 
 ## 📫 Connect With Me
 
@@ -95,10 +120,8 @@ AI-assisted automation system for rule-based workflows.
 
 ---
 
-## 💡 Philosophy
+<!-- ================= FOOTER ================= -->
 
-> I focus on building AI systems that are **practical, explainable, and impactful**, rather than just experimental.
-
----
-
-⭐️ If you find my work interesting, feel free to connect or collaborate.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+</p>
