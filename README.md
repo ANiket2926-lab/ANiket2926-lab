@@ -6,7 +6,7 @@
 
 <!-- ================= INTRO ================= -->
 
-<h1 align="center">Hi 👋, I'm ANiket</h1>
+<h1 align="center">Hi 👋, I'm Aniket</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00FFAA&center=true&vCenter=true&width=700&lines=AI+Engineer;GenAI+Builder;M.Tech+AI+Student;Hackathon+Finalist;Building+Real+World+AI+Systems" />
