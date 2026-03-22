@@ -1,17 +1,36 @@
-<!-- ================= HEADER (ONLY ANIMATION) ================= -->
+<!-- ================= HEADER ================= -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=ANiket%20%7C%20AI%20Engineer&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Aniket</h1>
+<h1 align="center">Hi 👋, I'm ANiket</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00FFAA&center=true&vCenter=true&width=700&lines=AI+Engineer;GenAI+Builder;AWS+Hackathon+Finalist;Building+Real+World+AI+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00FFAA&center=true&vCenter=true&width=700&lines=AI+Engineer;GenAI+Builder;Hackathon+Finalist;Building+Real+World+AI+Systems" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ANiket2926-lab&label=Profile+Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/ANiket2926-lab/Decision-Ledger">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ANiket2926-lab&repo=Decision-Ledger&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/ANiket2926-lab/DefectLens-AI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ANiket2926-lab&repo=DefectLens-AI&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ANiket2926-lab/Regula">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ANiket2926-lab&repo=Regula&theme=tokyonight&hide_border=true" />
+  </a>
 </p>
 
 ---
@@ -31,35 +50,6 @@ I am an AI-focused software engineer building **practical, real-world systems** 
 - 🥇 Finalist — AI for Bharat Hackathon  
 - 🚀 Intern — India Space Lab (ISL)  
 - 💡 Built multiple AI-assisted systems  
-
----
-
-## 🧠 Featured Projects
-
-### 🔹 Decision Ledger
-AI-assisted system for structured decision tracking and explainability.
-
-- Designed decision intelligence workflows  
-- Focused on transparency & traceability  
-- Built for real-world usage  
-
----
-
-### 🔹 DefectLens AI
-AI-assisted computer vision system for defect detection.
-
-- Image-based anomaly detection  
-- Industrial inspection use-case  
-- Scalable pipeline design  
-
----
-
-### 🔹 Regula
-AI-assisted automation system for rule-based workflows.
-
-- Structured rule execution  
-- Compliance automation  
-- Modular architecture  
 
 ---
 
