@@ -1,7 +1,7 @@
 <!-- ================= HEADER (ONLY ANIMATION) ================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=ANiket%20%7C%20AI%20Engineer&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Aniket%20%7C%20AI%20Engineer&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Aniket</h1>
